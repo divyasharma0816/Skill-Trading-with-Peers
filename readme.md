@@ -7,7 +7,9 @@ The **Skill Trading with Peers** project is a decentralized platform where indiv
 The project aims to create a fair, transparent, and decentralized ecosystem for skill exchange, leveraging blockchain technology to ensure security, trust, and rewarding token incentives for all participants.
 
 ## Contract Address:
-0xA390F112046b68f6b7aB4FdC6C0729afE8abe506
+0xA390F112046b68f6b7aB4FdC6C0729afE8abe506**
+![Screenshot 2024-12-21 142902](https://github.com/user-attachments/assets/3c01cd88-4d7b-4d72-9dc8-55b3beb34672)
+
 
 ## Project Vision:
 The vision of the **Skill Trading with Peers** platform is to empower individuals by providing a decentralized marketplace for skill exchanges. The platform aims to:
